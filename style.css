@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: whitesmoke;
+    text-align: center;
+    width: auto;
+  }
+  
+  h1 {
+    font-size: 3em;
+    color: black;
+    border : 5px solid black
+  
+  }
+  h4 {
+    font-size: 20px;
+    color: black;
+    height: auto;
+    width: auto;
+    
+  }
+  
+  
+  
